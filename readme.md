@@ -212,9 +212,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/zhie__e) - muhammad.fauji@gmail.com
+Muhammad Fauji - [@zhie68](https://twitter.com/zhie__e) - muhammad.fauji@gmail.com
 
-Project Link: [https://github.com/zhie68](https://github.com/zhie68)
+Project Link: [zhie68](https://github.com/zhie68)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
