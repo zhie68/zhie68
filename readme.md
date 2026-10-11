@@ -90,11 +90,13 @@ solutions.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=zhie68&show_icons=true&hide_border=true&bg_color=050505&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9" alt="GitHub statistics"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=zhie68&amp;show_icons=true&amp;hide_border=true&amp;bg_color=e0f2fe&amp;title_color=0369a1&amp;icon_color=0284c7&amp;text_color=0f172a" alt="GitHub statistics"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhie68&layout=compact&hide_border=true&bg_color=050505&title_color=00ff88&text_color=c9d1d9" alt="Most used programming languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhie68&amp;layout=compact&amp;hide_border=true&amp;bg_color=e0f2fe&amp;title_color=0369a1&amp;text_color=0f172a" alt="Most used programming languages"/>
 
-<img width="90%" src="https://streak-stats.demolab.com?user=zhie68&hide_border=true&background=050505&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="GitHub contribution streak"/>
+<br/><br/>
+
+<img width="90%" src="https://streak-stats.demolab.com?user=zhie68&amp;hide_border=true&amp;background=e0f2fe&amp;ring=0284c7&amp;fire=0284c7&amp;currStreakLabel=0369a1&amp;sideLabels=0c4a6e&amp;currStreakNum=0369a1&amp;sideNums=0369a1&amp;dates=64748b" alt="GitHub contribution streak"/>
 
 </div>
 
@@ -109,8 +111,8 @@ solutions.
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:003b20,100:050505&height=100&section=footer" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0284c7,50:38bdf8,100:bae6fd&amp;height=100&amp;section=footer" width="100%" alt="Footer"/>
 
-<sub><code>END OF TRANSMISSION // KEEP BUILDING.</code></sub>
+<sub><code>END OF TRANSMISSION // SKY BLUE EDITION // KEEP BUILDING.</code></sub>
 
 </div>
