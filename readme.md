@@ -1,84 +1,34 @@
-<a id="readme-top"></a>
-
-<!-- PROJECT SHIELDS -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,36&height=200&section=header&text=Muhammad%20Fauji&fontSize=42&fontAlignY=35&desc=Software%20Engineer%20%7C%20Backend%20%26%20Distributed%20Systems&descAlignY=58&descSize=18&fontColor=ffffff" width="100%" alt="Header" />
+</div>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
+<div align="center">
+  <a href="https://linkedin.com/in/mfauji">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/zhie__e">
+    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:muhammad.fauji@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/zhie68">
+    <img src="https://img.shields.io/github/followers/zhie68?label=Followers&style=for-the-badge&color=24292e&logo=github" alt="GitHub Followers" />
+  </a>
 </div>
 
 <br />
 
-<!-- PROJECT HEADER -->
-<div align="center">
-  <h1 align="center">Muhammad Fauji</h1>
-  <p align="center">
-    Repositori dan dokumentasi proyek personal / open-source.
-    <br />
-    <a href="https://github.com/zhie68/Best-README-Template"><strong>Jelajahi Dokumentasi »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/zhie68/Best-README-Template/issues">Laporkan Masalah</a>
-    ·
-    <a href="https://github.com/zhie68/Best-README-Template/issues">Ajukan Fitur</a>
-  </p>
-</div>
+---
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Daftar Isi</summary>
-  <ol>
-    <li>
-      <a href="#tentang-proyek">Tentang Proyek</a>
-      <ul>
-        <li><a href="#dibangun-dengan">Dibangun Dengan</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#memulai">Memulai</a>
-      <ul>
-        <li><a href="#prasyarat">Prasyarat</a></li>
-        <li><a href="#instalasi">Instalasi</a></li>
-      </ul>
-    </li>
-    <li><a href="#penggunaan">Penggunaan</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#kontribusi">Kontribusi</a></li>
-    <li><a href="#lisensi">Lisensi</a></li>
-    <li><a href="#kontak">Kontak</a></li>
-  </ol>
-</details>
+### 🚀 About Me
 
-<!-- ABOUT THE PROJECT -->
-## Tentang Proyek
-
-Deskripsikan proyek Anda secara singkat di sini. Jelaskan masalah yang diselesaikan dan tujuan utama dari proyek ini.
-
-<p align="right">(<a href="#readme-top">kembali ke atas</a>)</p>
-
-### Dibangun Dengan
-
-Daftar teknologi, bahasa, framework, atau library utama yang digunakan:
-
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-
-<p align="right">(<a href="#readme-top">kembali ke atas</a>)</p>
-
-<!-- GETTING STARTED -->
-## Memulai
-
-Panduan langkah demi langkah untuk menjalankan proyek ini secara lokal di perangkat Anda.
-
-### Prasyarat
-
-Hal-hal yang perlu dipersiapkan sebelum instalasi:
-* npm
-  ```sh
-  npm install npm@latest -g
+```yaml
+name: Muhammad Fauji
+role: Software Engineer
+focus_areas:
+  - High-performance RESTful APIs & Microservices
+  - Reactive Backend Architecture & Event-Driven Systems
+  - Database Optimization & Migration Automations
+location: Indonesia
+languages: [Indonesian, English]
