@@ -9,7 +9,7 @@
   <a href="https://twitter.com/zhie__e">
     <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="Twitter" />
   </a>
-  <a href="mailto:muhammad.fauji@gmail.com">
+  <a href="mailto:muhammadfauji.it@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/zhie68">
