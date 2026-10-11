@@ -113,6 +113,4 @@ solutions.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0284c7,50:38bdf8,100:bae6fd&amp;height=100&amp;section=footer" width="100%" alt="Footer"/>
 
-<sub><code>END OF TRANSMISSION // SKY BLUE EDITION // KEEP BUILDING.</code></sub>
-
 </div>
