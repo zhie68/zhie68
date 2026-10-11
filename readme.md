@@ -1,22 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:050505,50:003b20,100:00ff88&amp;height=200&amp;section=header&amp;text=Muhammad%20Fauji&amp;fontSize=42&amp;fontAlignY=35&amp;desc=Software%20Engineer%20%7C%20Backend%20and%20Distributed%20Systems&amp;descAlignY=58&amp;descSize=16&amp;fontColor=ffffff&amp;animation=fadeIn" width="100%" alt="Muhammad Fauji — Backend Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0b1120,50:0369a1,100:38bdf8&amp;height=200&amp;section=header&amp;text=Muhammad%20Fauji&amp;fontSize=42&amp;fontAlignY=35&amp;desc=Software%20Engineer%20%7C%20Backend%20and%20Distributed%20Systems&amp;descAlignY=58&amp;descSize=16&amp;fontColor=ffffff&amp;animation=fadeIn" width="100%" alt="Muhammad Fauji — Backend Engineer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=16&amp;duration=3000&amp;pause=1000&amp;color=00FF88&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Designing+reliable+backend+systems;Building+high-performance+APIs;Exploring+distributed+architectures;Turning+complexity+into+clean+solutions" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=16&amp;duration=3000&amp;pause=1000&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Designing+reliable+backend+systems;Building+high-performance+APIs;Exploring+distributed+architectures;Turning+complexity+into+clean+solutions" alt="Typing animation" />
 
 <br/>
 
 <a href="https://linkedin.com/in/mfauji">
-  <img src="https://img.shields.io/badge/LinkedIn-00FF88?style=for-the-badge&amp;logo=linkedin&amp;logoColor=050505" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-38BDF8?style=for-the-badge&amp;logo=linkedin&amp;logoColor=0b1120" alt="LinkedIn"/>
 </a>
 <a href="https://twitter.com/zhie__e">
-  <img src="https://img.shields.io/badge/X-00FF88?style=for-the-badge&amp;logo=x&amp;logoColor=050505" alt="X"/>
+  <img src="https://img.shields.io/badge/X-38BDF8?style=for-the-badge&amp;logo=x&amp;logoColor=0b1120" alt="X"/>
 </a>
 <a href="mailto:muhammadfauji.it@gmail.com">
-  <img src="https://img.shields.io/badge/Email-00FF88?style=for-the-badge&amp;logo=gmail&amp;logoColor=050505" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-38BDF8?style=for-the-badge&amp;logo=gmail&amp;logoColor=0b1120" alt="Email"/>
 </a>
 <a href="https://github.com/zhie68">
-  <img src="https://img.shields.io/github/followers/zhie68?style=for-the-badge&amp;color=00ff88&amp;labelColor=050505&amp;logo=github&amp;logoColor=00ff88" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/followers/zhie68?style=for-the-badge&amp;color=38bdf8&amp;labelColor=0b1120&amp;logo=github&amp;logoColor=38bdf8" alt="GitHub Followers"/>
 </a>
 
 </div>
